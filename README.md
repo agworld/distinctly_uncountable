@@ -12,8 +12,3 @@ Getting Started
 1. Make sure you've done `bundle install`
 2. Run `bundle exec rake`
 3. Despair!
-
-Copyright
----------
-
-Copyright (c) 2012 Agworld Pty. Ltd. See LICENSE.txt for further details.
