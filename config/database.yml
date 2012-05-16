@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: distinct
+test:
+  adapter: postgresql
+  database: distinct_test
